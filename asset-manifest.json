@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mcdermitt-station/static/css/main.e6c13ad2.css",
+    "main.js": "/mcdermitt-station/static/js/main.756f9979.js",
+    "static/js/453.b38b0188.chunk.js": "/mcdermitt-station/static/js/453.b38b0188.chunk.js",
+    "index.html": "/mcdermitt-station/index.html",
+    "main.e6c13ad2.css.map": "/mcdermitt-station/static/css/main.e6c13ad2.css.map",
+    "main.756f9979.js.map": "/mcdermitt-station/static/js/main.756f9979.js.map",
+    "453.b38b0188.chunk.js.map": "/mcdermitt-station/static/js/453.b38b0188.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.756f9979.js"
+  ]
+}
